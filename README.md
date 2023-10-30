@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RCaz33
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning ML and SQL
-- 💞️ I’m looking to collaborate on sonification of proteins
+- 👀 I’m interested in timeseries nlp and vision
+- 🌱 I’m currently seeking for a 16 month contract in partnership with my school
+- 💞️ I’m looking to collaborate on science projects
 - 📫 How to reach me remi.cazelles.fr@gmail.com
 
 <!---
