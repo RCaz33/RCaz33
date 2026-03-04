@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Rémi
-- 👀 I’m interested in applying ML models to real life applications 
-- 🌱 I’m completing a professional transition from R&D in Nanotechnologies to DataAnalayst (ML engineering) & Fullstack DevOps
-- 💞️ I’m looking to develop my skills for data architecture (SQL, MariaDB), chemometrics and ML scientific projects.
+- 👀 I’m Data Analyst & ML Engineer transitioning from R&D in nanotechnologies to applied ML and data architecture.
+- 🌱 My interest lies in ML for real-world applications, data architecture, DevOps practices.
+- 💞️ I’m looking to develop my skills in scalable data pipelines, MLOps, and scientific ML projects.
 - 📫 How to reach me : https://www.linkedin.com/in/rcaz33/ or remi.cazelles.fr@gmail.com
-
-<!---
-RCaz33/RCaz33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
