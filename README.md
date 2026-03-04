@@ -2,4 +2,4 @@
 - 👀 I’m Data Analyst & ML Engineer transitioning from R&D in nanotechnologies to applied ML and data architecture.
 - 🌱 My interest lies in ML for real-world applications, data architecture, DevOps practices.
 - 💞️ I’m looking to develop my skills in scalable data pipelines, MLOps, and scientific ML projects.
-- 📫 How to reach me : https://www.linkedin.com/in/rcaz33/ or remi.cazelles.fr@gmail.com
+- 📫 How to reach me : https://www.linkedin.com/in/rcaz33/ or remi.cazelles@proton.me
